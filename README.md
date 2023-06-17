@@ -22,18 +22,6 @@
 </ul>
 
 
-![Screenshot from 2023-06-17 09-46-25](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/c55d8ffb-5d2d-4ccc-9604-f025cead7dbd)
-![Screenshot from 2023-06-17 09-46-56](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/51cf154d-9aec-46db-b078-46f9efe747b5)
-![Screenshot from 2023-06-17 09-47-21](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/543a524d-2dc9-4b7e-a0bd-783333a16e91)
-![Screenshot from 2023-06-17 09-47-46](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/fe688017-9a3c-4251-80a4-69f2ee951440)
-![Screenshot from 2023-06-17 09-48-09](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/2106c847-7f32-4ce5-8095-c845489deb30)
-![Screenshot from 2023-06-17 09-48-19](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/e3dda6c8-37de-43a0-a74d-fc6395b07d4c)
-![Screenshot from 2023-06-17 09-48-40](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/08795b6c-d394-499a-aa99-ab8985e6fc3d)
-![Screenshot from 2023-06-17 09-48-45](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/d1ee1ab2-e857-41f2-875e-ae885186298a)
-![Screenshot from 2023-06-17 09-49-22](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/7ebd0837-f710-4f81-8dac-907019e9451a)
-![Screenshot from 2023-06-17 09-49-46](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/07d80606-5550-496a-9003-ea9fcfd5bbf8)
-![Screenshot from 2023-06-17 09-50-02](https://github.com/ajay-nikumbh/Html-Master-Notes/assets/37560890/112ec8a8-4ecc-4cf3-ae2b-c7f94e778093)
-
 
 **Companies**:  
 [Apple](https://leetcode.com/company/apple), [Amazon](https://leetcode.com/company/amazon), [Adobe](https://leetcode.com/company/adobe), [Microsoft](https://leetcode.com/company/microsoft)
@@ -44,4 +32,28 @@
 **Similar Questions**:
 * [Contains Duplicate II (Easy)](https://leetcode.com/problems/contains-duplicate-ii/)
 * [Contains Duplicate III (Medium)](https://leetcode.com/problems/contains-duplicate-iii/)
+
+
+
+
+
+![Screenshot from 2023-06-17 09-50-02](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/66bbc345-0f2e-43d7-8936-252cff34fb46)
+![Screenshot from 2023-06-17 09-49-46](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/06af913c-49ff-44af-bc80-0b92e0d00b49)
+![Screenshot from 2023-06-17 09-49-22](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/39de7f86-d130-4640-8250-cdef41768085)
+![Screenshot from 2023-06-17 09-48-45](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/05c02dc3-5fe9-47c2-b750-e24873fbde19)
+![Screenshot from 2023-06-17 09-48-40](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/6a6f5c3f-97fc-4354-ba81-62727a2434bb)
+![Screenshot from 2023-06-17 09-48-19](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/53ab8a5c-62c9-470c-a143-c69b9e8dfefa)
+![Screenshot from 2023-06-17 09-48-09](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/057d8925-edd4-4263-8dae-456e158f934d)
+![Screenshot from 2023-06-17 09-47-46](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/64f1889e-1bf6-4096-bbc4-e8ab0ac7ad66)
+![Screenshot from 2023-06-17 09-47-21](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/4a278bb6-4c73-4349-89ee-143c6f2bfcd0)
+![Screenshot from 2023-06-17 09-46-56](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/ac2697aa-ac0e-4b98-89db-4a0bb643bb12)
+![Screenshot from 2023-06-17 09-46-25](https://github.com/gss-coder/Python-Corey-Schafer/assets/109052326/49cb65d4-869b-4027-a6ea-971ec6de37b3)
+
+
+
+
+
+
+
+
 
